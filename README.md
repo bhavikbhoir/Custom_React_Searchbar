@@ -2,7 +2,7 @@
 
 ## About 
 
-A custom searchbar to let the user select and retrieve search results from their favorite search engines.
+A custom searchbar to let users select and retrieve search results from their favorite search engines.
 
 ![cs](https://user-images.githubusercontent.com/43330221/121641382-b9e83a80-ca54-11eb-89f6-4a0e71e6f8ce.png)
 
