@@ -1,0 +1,62 @@
+body, form {
+  display: flex;
+  justify-content: center;
+  background: rgb(232, 240, 254);
+}
+form{
+  .searchbar {
+    display: flex;
+    border: 1px solid grey;
+    border-radius: 25px;
+    width: 270px;
+    height: 40px;
+    input {
+      border: none;
+      margin-left: 25px;
+      outline: none;
+      background: inherit;
+    }
+    #searchsubmit {
+      background: transparent;
+      border: none;
+      padding: 0;
+    }
+    #searchsubmiticon svg{
+      height: 22px;
+      margin-right: 5px
+    }
+    #searchsubmitimg svg{
+      height: 22px;
+    }
+    .dropdown-toggle {
+      background: transparent;
+      border: none;
+      height: 40px;
+      padding: 0px 10px 0 0;
+    }
+    .dropdown-menu {
+      text-align: center;
+      padding: 0.5em;
+      left: 0;
+      right: 0!important;
+      inset: 0!important;
+      height: 100px;
+      .dropdown-header {
+        margin: 0.25em 0;
+      }
+    }
+    .dropdown-item {
+      display: inline-flex;
+      text-decoration: none;
+      button {
+        background: transparent;
+        border: none;
+        display: flex;
+        align-items: center;
+      }
+    }
+  }
+  .searchbar:hover {
+    box-shadow: 0 1px 4px #BFBFC7;
+  }
+}
