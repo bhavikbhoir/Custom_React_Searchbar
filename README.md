@@ -4,7 +4,7 @@
 
 A custom searchbar to let the user select and retrieve search results from their favorite search engines.
 
-![image](https://user-images.githubusercontent.com/43330221/121640878-1bf47000-ca54-11eb-83e0-d1b95fcb64e5.png)
+![cs](https://user-images.githubusercontent.com/43330221/121641382-b9e83a80-ca54-11eb-89f6-4a0e71e6f8ce.png)
 
 ## Built with
 
