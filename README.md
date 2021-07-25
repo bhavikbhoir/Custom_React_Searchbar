@@ -16,7 +16,7 @@ A custom searchbar to let users select and retrieve search results from their fa
 ## Tools
 
 * Code-Sandbox
-* GitHub Pages for deployment
+* Netlify for deployment
 
 ## Live Version
 
