@@ -20,7 +20,7 @@ A custom searchbar to let users select and retrieve search results from their fa
 
 ## Live Version
 
-https://bhavikbhoir.github.io/csb-hrmkl/
+https://csb-hrmkl.netlify.app/
 
 ## Sandbox Link
 
